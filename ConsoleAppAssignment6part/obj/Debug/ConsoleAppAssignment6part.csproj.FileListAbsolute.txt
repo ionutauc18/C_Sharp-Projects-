@@ -1,0 +1,7 @@
+C:\Users\ionut\Dropbox\PC\Desktop\C# and .NET Framework - Part 2\ConsoleAppAssignment6part\bin\Debug\ConsoleAppAssignment6part.exe.config
+C:\Users\ionut\Dropbox\PC\Desktop\C# and .NET Framework - Part 2\ConsoleAppAssignment6part\bin\Debug\ConsoleAppAssignment6part.exe
+C:\Users\ionut\Dropbox\PC\Desktop\C# and .NET Framework - Part 2\ConsoleAppAssignment6part\bin\Debug\ConsoleAppAssignment6part.pdb
+C:\Users\ionut\Dropbox\PC\Desktop\C# and .NET Framework - Part 2\ConsoleAppAssignment6part\obj\Debug\ConsoleAppAssignment6part.csproj.AssemblyReference.cache
+C:\Users\ionut\Dropbox\PC\Desktop\C# and .NET Framework - Part 2\ConsoleAppAssignment6part\obj\Debug\ConsoleAppAssignment6part.csproj.CoreCompileInputs.cache
+C:\Users\ionut\Dropbox\PC\Desktop\C# and .NET Framework - Part 2\ConsoleAppAssignment6part\obj\Debug\ConsoleAppAssignment6part.exe
+C:\Users\ionut\Dropbox\PC\Desktop\C# and .NET Framework - Part 2\ConsoleAppAssignment6part\obj\Debug\ConsoleAppAssignment6part.pdb
