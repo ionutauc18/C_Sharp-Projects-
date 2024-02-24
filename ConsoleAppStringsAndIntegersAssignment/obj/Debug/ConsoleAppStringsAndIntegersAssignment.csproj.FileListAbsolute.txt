@@ -1,0 +1,7 @@
+C:\Users\ionut\Dropbox\PC\Desktop\C# and .NET Framework - Part 2\ConsoleAppStringsAndIntegersAssignment\bin\Debug\ConsoleAppStringsAndIntegersAssignment.exe.config
+C:\Users\ionut\Dropbox\PC\Desktop\C# and .NET Framework - Part 2\ConsoleAppStringsAndIntegersAssignment\bin\Debug\ConsoleAppStringsAndIntegersAssignment.exe
+C:\Users\ionut\Dropbox\PC\Desktop\C# and .NET Framework - Part 2\ConsoleAppStringsAndIntegersAssignment\bin\Debug\ConsoleAppStringsAndIntegersAssignment.pdb
+C:\Users\ionut\Dropbox\PC\Desktop\C# and .NET Framework - Part 2\ConsoleAppStringsAndIntegersAssignment\obj\Debug\ConsoleAppStringsAndIntegersAssignment.csproj.AssemblyReference.cache
+C:\Users\ionut\Dropbox\PC\Desktop\C# and .NET Framework - Part 2\ConsoleAppStringsAndIntegersAssignment\obj\Debug\ConsoleAppStringsAndIntegersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ionut\Dropbox\PC\Desktop\C# and .NET Framework - Part 2\ConsoleAppStringsAndIntegersAssignment\obj\Debug\ConsoleAppStringsAndIntegersAssignment.exe
+C:\Users\ionut\Dropbox\PC\Desktop\C# and .NET Framework - Part 2\ConsoleAppStringsAndIntegersAssignment\obj\Debug\ConsoleAppStringsAndIntegersAssignment.pdb
