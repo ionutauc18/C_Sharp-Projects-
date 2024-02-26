@@ -1,5 +1,5 @@
 # C_Sharp-Projects
-This repository contains all the C# projects and assignments done during the C# and .NET Framework - Part 1 course. 
+This repository contains all the C# projects and assignments done during the C# and .NET Framework - Part 2 course. 
 The repository contains the following Projects and Assignments:
 - A six-part Console Application Assignment
 
