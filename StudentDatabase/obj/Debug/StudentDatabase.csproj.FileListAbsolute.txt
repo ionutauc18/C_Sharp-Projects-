@@ -1,0 +1,12 @@
+C:\Users\ionut\Dropbox\PC\Desktop\C# and .NET Framework - Part 2\StudentDatabase\bin\Debug\StudentDatabase.exe.config
+C:\Users\ionut\Dropbox\PC\Desktop\C# and .NET Framework - Part 2\StudentDatabase\bin\Debug\StudentDatabase.exe
+C:\Users\ionut\Dropbox\PC\Desktop\C# and .NET Framework - Part 2\StudentDatabase\bin\Debug\StudentDatabase.pdb
+C:\Users\ionut\Dropbox\PC\Desktop\C# and .NET Framework - Part 2\StudentDatabase\bin\Debug\EntityFramework.dll
+C:\Users\ionut\Dropbox\PC\Desktop\C# and .NET Framework - Part 2\StudentDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ionut\Dropbox\PC\Desktop\C# and .NET Framework - Part 2\StudentDatabase\bin\Debug\EntityFramework.xml
+C:\Users\ionut\Dropbox\PC\Desktop\C# and .NET Framework - Part 2\StudentDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ionut\Dropbox\PC\Desktop\C# and .NET Framework - Part 2\StudentDatabase\obj\Debug\StudentDatabase.csproj.AssemblyReference.cache
+C:\Users\ionut\Dropbox\PC\Desktop\C# and .NET Framework - Part 2\StudentDatabase\obj\Debug\StudentDatabase.csproj.CoreCompileInputs.cache
+C:\Users\ionut\Dropbox\PC\Desktop\C# and .NET Framework - Part 2\StudentDatabase\obj\Debug\StudentD.AC84E7A9.Up2Date
+C:\Users\ionut\Dropbox\PC\Desktop\C# and .NET Framework - Part 2\StudentDatabase\obj\Debug\StudentDatabase.exe
+C:\Users\ionut\Dropbox\PC\Desktop\C# and .NET Framework - Part 2\StudentDatabase\obj\Debug\StudentDatabase.pdb
