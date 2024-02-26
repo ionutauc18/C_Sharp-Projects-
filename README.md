@@ -10,4 +10,4 @@ The repository contains the following Projects and Assignments:
 
 -   Car Insurance
    
-- This is a MVC Web Application project that mimics a car insurance website, taking user's input on policy information and calculates a quote based on business logic. This also has an admin page that allows staff to view all of the quotes that have been issued.
+ This is a MVC Web Application project that mimics a car insurance website, taking user's input on policy information and calculates a quote based on business logic. This also has an admin page that allows staff to view all of the quotes that have been issued.
