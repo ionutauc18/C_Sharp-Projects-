@@ -7,7 +7,7 @@ This is a six-part Console Application where we use a one-dimensional array of s
 - A Console Application Assignment with Strings and Integers
 
 This is Assignment where we create a list of integers and use those integers to create mathematical operation, putting a loop in a try/catch block etc;
-- Card Battle Application
+- Card Battle Console Application 
 
 A Console Application that shows a skipet of a card battle game that calls three methods, each of which will take one integer parameter in and return an integer;
 - Main Method Assignment
@@ -21,4 +21,7 @@ A Console Application where we use polymorphism to create an interface called IQ
 This is a MVC Web Application project that mimics a car insurance website, taking user's input on policy information and calculates a quote based on business logic. This also has an admin page that allows staff to view all of the quotes that have been issued;
 - Blackjack Game
 
-This is a project where we use user's input to play a simple Console Application Blackjack game. The game responds to the player's input and acts accordingly, giving the player a fun experience. 
+This is a project where we use user's input to play a simple Console Application Blackjack game. The game responds to the player's input and acts accordingly, giving the player a fun experience;
+- Entity Framework Code First Assignment
+
+A basic Entity Framework Code First Console Application where we create a basic Student database that adds one student;
