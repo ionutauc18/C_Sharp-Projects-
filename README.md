@@ -7,3 +7,5 @@ The repository contains the following Projects and Assignments:
 - A Console Application that shows a skipet of a card battle game that calls three methods, each of which will take one integer parameter in and return an integer
 - A Console Application where we do different mathematical operation on a integer and return the answer as an integer, a decimal and return the answer as a integer and a string, converting it to an integer and returning the answer as an integer;
 - A Console Application where we use polymorphism to create an interface called IQuittable and have it define a void method called Quit().We also have an Employee class inherit from that interface and implement the Quit() method.
+  Car Insurance
+- This is a MVC Web Application project that mimics a car insurance website, taking user's input on policy information and calculates a quote based on business logic. This also has an admin page that allows staff to view all of the quotes that have been issued.
