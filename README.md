@@ -21,4 +21,4 @@ A Console Application where we use polymorphism to create an interface called IQ
 This is a MVC Web Application project that mimics a car insurance website, taking user's input on policy information and calculates a quote based on business logic. This also has an admin page that allows staff to view all of the quotes that have been issued;
 - Blackjack Game
 
-This is a project where we use user's input to play a simple Console Application Blackjack game. The game responds to the player's input and responds accordingly, giving the player a fun experience. 
+This is a project where we use user's input to play a simple Console Application Blackjack game. The game responds to the player's input and acts accordingly, giving the player a fun experience. 
